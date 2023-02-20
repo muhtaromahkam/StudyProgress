@@ -1,3 +1,2 @@
 Ini merupakan latihan yang dilakukan untuk membuat merge branch
-
-Tambahan baru
+Ini merupakan latihan tambahan untuk menyebabkan error pada conflict
